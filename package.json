@@ -1,0 +1,14 @@
+{
+  "name": "card-fixtures",
+  "version": 0.1,
+  "description": "A Repository for card fixtures and seed scripts to upload them",
+  "scripts": {
+    "seed": "node scripts/seed.js"
+  },
+  "author": "Peter Sowerbutts<pete.sowerbutts@gmail.com> (https://github.com/petersow)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.1",
+    "unirest": "0.5.1"
+  }
+}

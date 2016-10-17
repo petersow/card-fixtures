@@ -1,0 +1,19 @@
+{
+  "code": "001081",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "event",
+  "subtype": [
+  ],
+  "resource_cost": 0,
+  "deck_limit": 2,
+  "name": "Enrage",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 81,
+  "artist": "",
+    "flavour": "",
+  "rarity": "common",
+  "text": "Deal 1 damage to one of your Blue characters to gain 1 Resource.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/75/c5/75c558d3-0143-4424-ad4a-1e3186748074/swd01_card_enrage.png"
+}

@@ -1,0 +1,55 @@
+{
+  "code": "001038",
+  "color": "blue",
+  "alignment": "hero",
+  "type": "character",
+  "subtype": [
+  ],
+  "deck_limit": 1,
+  "name": "Rey",
+  "unique": true,
+  "character_sub_title": "Force Prodigy",
+  "health": 10,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 38,
+  "artist": "Darren Tan",
+  "flavour": "I think I can handle myself.",
+  "rarity": "starter",
+  "text": "After you play an upgrade on this character, you may take one additional action.",
+  "image_url": "TODO",
+  "point_value": 9,
+  "elite_point_value": 12,
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_melee",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "discard",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

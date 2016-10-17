@@ -1,0 +1,19 @@
+{
+  "code": "001075",
+  "color": "red",
+  "alignment": "villain",
+  "type": "event",
+  "subtype": [
+  ],
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "The Best Defense...",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 75,
+  "artist": "",
+  "flavour": "\"There they are! Blast them!",
+  "rarity": "rare",
+  "text": "Deal on of your Red characters 3 damage to remove up to 2 of an opponent's dice.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/e0/c9/e0c9ee33-d728-43fb-abc6-64e04fbf8c71/swd01_card_best-defense.png"
+}

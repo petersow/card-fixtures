@@ -1,0 +1,52 @@
+{
+  "code": "001002",
+  "color": "red",
+  "alignment": "villain",
+  "type": "character",
+  "subtype": [
+  ],
+  "name": "First Order Stormtrooper",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 2,
+  "artist": "",
+  "flavour":"Members of this new generation of stormtrooper are trained from birthday and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+  "point_value": 7,
+  "health" : 7,
+  "rarity": "rare",
+  "text": "",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/6d/41/6d41fa91-7634-4dd6-895d-334536669d0a/swd01_card-dice_1st-order-stormtrooper.png",
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

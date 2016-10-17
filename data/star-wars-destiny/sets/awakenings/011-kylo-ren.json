@@ -1,0 +1,55 @@
+{
+  "code": "001011",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "character",
+  "subtype": [
+  ],
+  "deck_limit": 1,
+  "name": "Kylo Ren",
+  "unique": true,
+  "character_sub_title": "Vader's Disciple",
+  "health": 11,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 11,
+  "artist": "Darren Tan",
+  "flavour":"",
+  "rarity": "starter",
+  "text": "<special> - Chose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/9d/67/9d67ce0a-72b9-4239-b516-e82a997313bd/swd01_card-dice_kylo-ren.png",
+  "point_value": 10,
+  "elite_point_value": 13,
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "melee",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

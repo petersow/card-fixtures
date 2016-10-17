@@ -1,0 +1,19 @@
+{
+  "code": "001084",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "event",
+  "subtype": [
+  ],
+  "resource_cost": 0,
+  "deck_limit": 2,
+  "name": "Enrage",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 84,
+  "artist": "Scott Murphy",
+  "flavour": "",
+  "rarity": "common",
+  "text": "Remove all shields from a character.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/eb/3c/eb3cb045-f79c-40c5-b63b-f649ed384af1/swd01_card_intimidate.png"
+}

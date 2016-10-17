@@ -1,0 +1,19 @@
+{
+  "code": "001128",
+  "color": "yellow",
+  "alignment": "hero",
+  "type": "event",
+  "subtype": [
+  ],
+  "resource_cost": 0,
+  "deck_limit": 2,
+  "name": "Draw Attention",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 128,
+  "artist": "Arden Beckwith",
+  "flavour": "",
+  "rarity": "common",
+  "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields).",
+  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/128%20-%20Draw%20Attention_zpsxjvdzgbn.jpg"
+}

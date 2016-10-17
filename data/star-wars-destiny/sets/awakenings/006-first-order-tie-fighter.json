@@ -1,0 +1,53 @@
+{
+  "code": "001006",
+  "color": "red",
+  "alignment": "villain",
+  "type": "support",
+  "subtype": [
+    "vehicle"
+  ],
+  "resource_cost": 3,
+  "deck_limit": 2,
+  "name": "First Order TIE Fighter",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 6,
+  "artist": "Ben Zwedel",
+  "flavour":"",
+  "rarity": "rare",
+  "text": "<special> - Remove all shields from all of an opponent's characters.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/57/67/5767dedf-ceb1-405f-b74a-073652a0af4d/swd01_card-dice_1st-order-tie-fighter.png",
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 3,
+      "resource_cost" : 1
+    },
+    {
+      "type": "disrupt",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

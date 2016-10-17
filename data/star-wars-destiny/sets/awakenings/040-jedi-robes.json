@@ -1,0 +1,52 @@
+{
+  "code": "001040",
+  "color": "blue",
+  "alignment": "hero",
+  "type": "upgrade",
+  "subtype": [
+    "equipment"
+  ],
+  "resource_cost": 2,
+  "deck_limit": 2,
+  "name": "Jedi Robes",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 40,
+  "artist": "Magali Villeneuve",
+  "flavour": "",
+  "rarity": "rare",
+  "text": "After you play this upgrade, give attached character 1 shield, or 2 sheilds instead if it is the first round of the game.",
+  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/040%20-%20Jedi%20Robes_zpsre2lcxeq.jpg",
+  "dice_sides": [
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "disrupt",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_shield",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}
