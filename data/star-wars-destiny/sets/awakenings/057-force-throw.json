@@ -1,5 +1,5 @@
 {
-  "code": "001060",
+  "code": "001057",
   "color": "blue",
   "alignment": "neutral",
   "type": "upgrade",
@@ -7,29 +7,29 @@
     "ability"
   ],
   "deck_limit": 2,
-  "name": "Mind Probe",
-  "resource_cost": 4,
+  "name": "Force Throw",
+  "resource_cost": 3,
   "game": "star-wars-destiny",
   "set": "awakenings",
-  "set_number": 60,
-  "artist": "Demitry Prosvimin",
+  "set_number": 57,
+  "artist": "FFG",
   "rarity": "starter",
   "has_dice": true,
-  "text": "Blue character only.\n<special> - Deal an opponent's character 1 damage for each card in that opponent's hand.",
-  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/cb/a5/cba598bf-1159-4e83-a6c3-1b63cb00822e/swd01_card-dice_mind-probe.png",
+  "text": "Blue character only.\n<special> - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zero).",
+  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/057%20-%20Force%20Throw_zpsx8l7pcph.jpg",
   "dice_sides": [
     {
       "type": "ranged",
-      "value": 3,
+      "value": 1,
       "resource_cost": 1
     },
     {
       "type": "disrupt",
-      "value": 2,
+      "value": 1,
       "resource_cost": 0
     },
     {
-      "type": "discard",
+      "type": "disrupt",
       "value": 2,
       "resource_cost": 0
     },

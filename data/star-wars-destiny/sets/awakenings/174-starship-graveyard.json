@@ -1,0 +1,15 @@
+{
+  "code": "001074",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 174,
+  "alignment": "neutral",
+  "type": "battlefield",
+  "name": "Starship Graveyard",
+  "battlefield_location": "Jakku",
+  "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/88/ac/88ac634b-646c-4403-9bfb-be50c8e8ed9f/swd02_starship-graveyard.png",
+  "has_dice": false,
+  "artist": "Mark Molnar",
+  "rarity": "starter"
+}

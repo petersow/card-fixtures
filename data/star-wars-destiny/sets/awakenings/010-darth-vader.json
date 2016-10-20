@@ -1,4 +1,53 @@
 {
+  "code": "001010",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "character",
+  "deck_limit": 1,
+  "name": "Darth Vader",
+  "unique": true,
+  "character_sub_title": "Sith Lord",
+  "health": 13,
   "game": "star-wars-destiny",
-  "set": "awakenings"
+  "set": "awakenings",
+  "set_number": 10,
+  "artist": "Darren Tan",
+  "rarity": "legendary",
+  "has_dice": true,
+  "text": "After you activate this character, you may force an opponent to choose and discard a card from their hand.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14708151_10154649880069772_7551007300959386994_n.jpg?oh=c43d6228a44f4152eb2dc3b0d0005218&oe=58A8E694",
+  "point_value": 16,
+  "elite_point_value": 21,
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "melee",
+      "value": 3,
+      "resource_cost" : 1
+    },
+    {
+      "type": "disrupt",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
 }

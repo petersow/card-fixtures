@@ -1,0 +1,54 @@
+{
+  "code": "001028",
+  "color": "red",
+  "alignment": "hero",
+  "type": "character",
+  "deck_limit": 1,
+  "name": "Leia Organa",
+  "unique": true,
+  "character_sub_title": "Born Leader",
+  "health": 11,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 28,
+  "artist": "Ryan Varde",
+  "flavour": "\"Someone has to save our skins.\"",
+  "rarity": "rare",
+  "has_dice": true,
+  "text": "<Action> - Remove this die to reroll up to 2 of your dice.",
+  "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/14642438_10207592629590040_3908489534391395761_n.jpg?oh=fe48aad7c946801dab2299f743dd945c&oe=58A2B44C",
+  "point_value": 12,
+  "elite_point_value": 16,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost": 1
+    },
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

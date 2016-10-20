@@ -1,30 +1,26 @@
 {
-  "code": "001059",
+  "code": "001058",
   "color": "blue",
   "alignment": "neutral",
   "type": "upgrade",
   "subtype": [
-    "weapon"
+    "ability"
   ],
   "deck_limit": 2,
-  "name": "Lightsaber",
-  "resource_cost": 3,
+  "name": "Force Training",
+  "resource_cost": 2,
   "game": "star-wars-destiny",
   "set": "awakenings",
-  "set_number": 59,
-  "artist": "Ashton Galagha",
-  "flavour": "\"An elegant weapon from a more civilized age.\" = Obi-Wan Kenobi",
-  "rarity": "starter",
-  "keywords": [
-    "redeploy"
-  ],
-  "text": "<special> - Deal 2 unblockable damage to a character.",
+  "set_number": 58,
+  "artist": "FFG",
+  "rarity": "rare",
   "has_dice": true,
-  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/55/02/550278c9-7b94-404f-843e-52fd0f0f9ee2/swd01_card-dice_lightsaber.png",
+  "text": "To play, spot aBlue character.\n<special> - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14670638_1238862022803101_5952428400593519255_n.jpg?oh=a326a6e45c6d5d1c918f8d1490ad006c&oe=58A56B92",
   "dice_sides": [
     {
-      "type": "melee",
-      "value": 3,
+      "type": "ranged",
+      "value": 1,
       "resource_cost": 1
     },
     {
@@ -33,7 +29,7 @@
       "resource_cost": 0
     },
     {
-      "type": "shield",
+      "type": "focus",
       "value": 1,
       "resource_cost": 0
     },

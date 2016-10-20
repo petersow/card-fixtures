@@ -1,0 +1,54 @@
+{
+  "code": "001035",
+  "color": "blue",
+  "alignment": "hero",
+  "type": "character",
+  "deck_limit": 1,
+  "name": "Luke Skywalker",
+  "unique": true,
+  "character_sub_title": "Jedi Knight",
+  "health": 12,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 35,
+  "artist": "Darren Tan",
+  "flavour": "\"I'm a Jedi, like my father before me\"",
+  "rarity": "legendary",
+  "has_dice": true,
+  "text": "After you activate this character, draw a card.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14680745_10154689028833338_8401388098576375618_n.jpg?oh=c43b93eb9f4be254f5524deacb97105d&oe=58A873E1",
+  "point_value": 15,
+  "elite_point_value": 20,
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "melee",
+      "value": 3,
+      "resource_cost": 0
+    },
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

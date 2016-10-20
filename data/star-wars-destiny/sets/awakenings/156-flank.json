@@ -1,0 +1,17 @@
+{
+  "code": "001156",
+  "color": "gray",
+  "alignment": "neutral",
+  "type": "event",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "Flank",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 156,
+  "artist": "Adam Schumpert",
+  "rarity": "uncommon",
+  "text": "Play only if you have more ready characters than an opponent. Remove one of that opponent's dice.",
+  "has_dice": false,
+  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/156%20-%20Flank_zpsgjwqnqnn.jpg"
+}

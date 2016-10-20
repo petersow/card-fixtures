@@ -1,0 +1,54 @@
+{
+  "code": "001045",
+  "color": "yellow",
+  "alignment": "hero",
+  "type": "character",
+  "deck_limit": 1,
+  "name": "Finn",
+  "unique": true,
+  "character_sub_title": "First Order Defective",
+  "health": 10,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 45,
+  "artist": "Darren Tan",
+  "flavour": "I'm not going back.",
+  "rarity": "starter",
+  "has_dice": true,
+  "text": "You can attach any <b>weapon</b> to this character, ignoring play restrictions.\nYou can include Red Villain <b>weapons</b> and <b>vehicles</b> in your deck.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14720607_10154390998108673_7387888298334012532_n.jpg?oh=943cf2b800a80aedde63b7870a292639&oe=58A34DA9",
+  "point_value": 13,
+  "elite_point_value": 16,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

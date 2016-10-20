@@ -1,0 +1,53 @@
+{
+  "code": "001049",
+  "color": "yellow",
+  "alignment": "hero",
+  "type": "support",
+  "subtype": [
+    "vehicle"
+  ],
+  "resource_cost": 5,
+  "deck_limit": 2,
+  "unique": true,
+  "name": "Millennium Falcon",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 49,
+  "rarity": "legendary",
+  "text": "<special> - Play a Yellow event from your discard pile or hand for free.",
+  "flavour": "\"She may not look like much, but she's got it where it counts.\" - Han Solo",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14572376_10157627070870113_1907071438534881738_n.jpg?oh=12c7a003034037fb7dd7f5d9bf658f27&oe=5863FD00",
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 3,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 4,
+      "resource_cost" : 0
+    },
+    {
+      "type": "focus",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "discard",
+      "value": 3,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

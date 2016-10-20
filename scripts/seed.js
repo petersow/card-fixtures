@@ -37,6 +37,12 @@ function _processCards(cardFilePaths, callback) {
               if (response.statusCode === 404) {
                 // send a POST
                 console.log("Will send a POST");
+                unirest.post(WEB_APP_URL)
+                  .set('Content-Type', 'application/json')
+                  .send(card)
+                  .end(function(response) {
+                    console.log("POST response [%s]", JSON.stringify(response));
+                  });
               } else {
                 // send a PUT
                 console.log("Will send a PUT");

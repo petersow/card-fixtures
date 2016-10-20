@@ -1,0 +1,54 @@
+{
+  "code": "001021",
+  "color": "yellow",
+  "alignment": "villain",
+  "type": "character",
+  "deck_limit": 1,
+  "name": "Jango Fett",
+  "unique": true,
+  "character_sub_title": "Lethal Mercenary",
+  "health": 10,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 21,
+  "artist": "Adam Lane",
+  "rarity": "rare",
+  "has_dice": true,
+  "text": "After an opponent activates a character, you may activate this character.",
+  "flavour": "\"There can be no mistakes this time.\"",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14720624_1849757988588583_6527169388729684313_n.jpg?oh=c3c2287a56e1d6122006a97285cddd3c&oe=589C6051",
+  "point_value": 12,
+  "elite_point_value": 16,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "plus_resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

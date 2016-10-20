@@ -1,0 +1,54 @@
+{
+  "code": "001043",
+  "color": "gray",
+  "alignment": "hero",
+  "type": "support",
+  "subtype": [
+    "droid"
+  ],
+  "resource_cost": 1,
+  "unique": true,
+  "deck_limit": 2,
+  "name": "BB-8",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 6,
+  "artist": "FFG",
+  "rarity": "rare",
+  "flavour": "\"Orange and white: one of a kind.\" - Poe Dameron",
+  "text": "<special> - Reroll this die and one of your other dice. Do not remove this die from your pool after resolving this ability.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/80/3a/803ae0bf-2874-4763-a175-70791b60aba2/swd02_bb-8.png",
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "disrupt",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "shield",
+      "value": 1,
+      "resource_cost" : 1
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

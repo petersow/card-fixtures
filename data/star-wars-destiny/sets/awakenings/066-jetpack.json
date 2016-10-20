@@ -1,0 +1,51 @@
+{
+  "code": "001066",
+  "color": "yellow",
+  "alignment": "neutral",
+  "type": "upgrade",
+  "subtype": [
+    "equipment"
+  ],
+  "resource_cost": 2,
+  "deck_limit": 2,
+  "name": "Jetpack",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 66,
+  "rarity": "rare",
+  "has_dice": true,
+  "text": "<special> - Remove a die showing melee damage (<melee>) and give attached character 1 shield.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14708300_10105655556870598_4708419165301952697_n.jpg?oh=5bf90b03bbd25b9e686df927f1c3f81a&oe=5862C540",
+  "dice_sides": [
+    {
+      "type": "plus_ranged",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_ranged",
+      "value": 3,
+      "resource_cost": 0
+    },
+    {
+      "type": "disrupt",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

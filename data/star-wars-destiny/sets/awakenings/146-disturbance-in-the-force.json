@@ -3,8 +3,6 @@
   "color": "blue",
   "alignment": "neutral",
   "type": "event",
-  "subtype": [
-  ],
   "resource_cost": 1,
   "deck_limit": 2,
   "name": "Disturbance in the Force",
@@ -14,6 +12,7 @@
   "artist": "Allen Douglas",
   "flavour": "\"I fear something terrible has happened, as if millions of voices suddendly cried out and were silenced.\" - Obi-Wan Kenobi",
   "rarity": "common",
+  "has_dice": false,
   "text": "Reroll all dice.",
   "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/a8/7d/a87de68c-2f91-4303-91c1-c09d1416f528/swd01_card_disturbance-in-the-force.png"
 }

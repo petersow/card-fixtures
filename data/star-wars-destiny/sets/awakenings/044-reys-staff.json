@@ -1,0 +1,53 @@
+{
+  "code": "001038",
+  "color": "gray",
+  "alignment": "hero",
+  "type": "upgrade",
+  "subtype": [
+    "weapon"
+  ],
+  "deck_limit": 2,
+  "name": "Rey's Staff",
+  "unique": true,
+  "resource_cost": 2,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 44,
+  "artist": "FFG",
+  "rarity": "rare",
+  "text": "<special> - Remove a die showing damage (<melee> or <ranged>).",
+  "has_dice": true,
+  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/044%20-%20Reys%20Staff_zpskpqruyor.jpg",
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "melee",
+      "value": 3,
+      "resource_cost": 1
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

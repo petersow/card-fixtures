@@ -1,0 +1,16 @@
+{
+  "code": "001119",
+  "color": "blue",
+  "alignment": "hero",
+  "type": "event",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "Patience",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 119,
+  "rarity": "common",
+  "has_dice": false,
+  "text": "Remove any number of your dice. Then discard cards from our opponent's deck equal to the number of dice you just removed.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14725481_10157747642485637_1583104535901789227_n.jpg?oh=26b624b682fe7055bfa37a2a1560dadb&oe=58986C0A"
+}

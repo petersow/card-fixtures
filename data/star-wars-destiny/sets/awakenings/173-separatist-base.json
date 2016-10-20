@@ -1,0 +1,15 @@
+{
+  "code": "001073",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 173,
+  "alignment": "neutral",
+  "type": "battlefield",
+  "name": "Separatist Base",
+  "battlefield_location": "Mustafar",
+  "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/08/22/08228aef-ab09-4ce0-a5d3-56746d9d1423/swd03_separatist-base.png",
+  "has_dice": false,
+  "artist": "Mark Molnar",
+  "rarity": "common"
+}

@@ -1,0 +1,17 @@
+{
+  "code": "001070",
+  "color": "red",
+  "alignment": "villain",
+  "type": "event",
+  "resource_cost": 5,
+  "deck_limit": 2,
+  "name": "Endless Ranks",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 70,
+  "flavour": "Battle droids are less effective than flesh and blood soldiers, buy the are also much cheaper to replace.",
+  "rarity": "uncommon",
+  "has_dice": false,
+  "text": "Return one of your defeated non-unique Red characters to the game with no damage on it.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/42/e0/42e0fffc-9244-4ad1-83d5-abf8823db9c2/swd03_endless-ranks.png"
+}

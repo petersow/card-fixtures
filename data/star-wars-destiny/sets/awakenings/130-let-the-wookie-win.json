@@ -1,0 +1,17 @@
+{
+  "code": "001130",
+  "color": "yellow",
+  "alignment": "hero",
+  "type": "event",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "Let the Wookie Win",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 130,
+  "artist": "Francisico Rico",
+  "rarity": "uncommon",
+  "has_dice": false,
+  "text": "Force an opponent to choose to either deal one of their exhausted characters 2 damage or choose and remove 2 of their dice.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/75/bf/75bf567a-a8d3-45cb-81a5-7ff42a19c31a/swd02_let-the-wookiee-win.png"
+}

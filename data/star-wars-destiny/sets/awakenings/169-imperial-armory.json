@@ -1,0 +1,15 @@
+{
+  "code": "001069",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 169,
+  "alignment": "neutral",
+  "type": "battlefield",
+  "name": "Imperial Armory",
+  "battlefield_location": "Death Star",
+  "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/3c/8e/3c8ee51f-ccda-40bc-b315-f26b6316012b/swd03_imperial-armory.png",
+  "has_dice": false,
+  "artist": "James Cambridge",
+  "rarity": "common"
+}

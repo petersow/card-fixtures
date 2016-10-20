@@ -3,8 +3,6 @@
   "color": "blue",
   "alignment": "neutral",
   "type": "event",
-  "subtype": [
-  ],
   "resource_cost": 1,
   "deck_limit": 2,
   "name": "Use the Force",
@@ -14,6 +12,7 @@
   "artist": "Adam Lane",
   "flavour": "\"The Force will be with you, always.\" - Obi-Wan Kenobi",
   "rarity": "starter",
+  "has_dice": false,
   "text": "Spot a Blue character to turn a die to any side.",
-  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/149%20-%20Use%20the%20Force_zpstjmhu18n.jpg"
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/b0/60/b0602ae6-8585-46f2-bece-328c49265696/swd01_use_the_force.png"
 }

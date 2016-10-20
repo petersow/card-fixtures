@@ -1,0 +1,53 @@
+{
+  "code": "001029",
+  "color": "red",
+  "alignment": "hero",
+  "type": "character",
+  "deck_limit": 1,
+  "unique": true,
+  "name": "Poe Dameron",
+  "character_sub_title": "Ace Pilot",
+  "health": 12,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 29,
+  "artist": "Tony Fob",
+  "rarity": "legendary",
+  "text": "<special> - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14718769_10102361317942325_6432690235518832836_n.jpg?oh=7fbe443f61200aa55924e2f0bce611d8&oe=586112D5",
+  "point_value": 14,
+  "elite_point_value": 18,
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 3,
+      "resource_cost" : 1
+    },
+    {
+      "type": "disrupt",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
+}

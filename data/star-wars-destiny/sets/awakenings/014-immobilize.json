@@ -1,33 +1,23 @@
 {
-  "code": "001040",
+  "code": "001014",
   "color": "blue",
-  "alignment": "hero",
+  "alignment": "villain",
   "type": "upgrade",
   "subtype": [
-    "equipment"
+    "ability"
   ],
-  "resource_cost": 2,
   "deck_limit": 2,
-  "name": "Jedi Robes",
+  "name": "Immobilize",
+  "resource_cost": 2,
   "game": "star-wars-destiny",
   "set": "awakenings",
-  "set_number": 40,
-  "artist": "Magali Villeneuve",
+  "set_number": 14,
+  "artist": "Tony Foti",
   "rarity": "rare",
   "has_dice": true,
-  "text": "After you play this upgrade, give attached character 1 shield, or 2 sheilds instead if it is the first round of the game.",
-  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/040%20-%20Jedi%20Robes_zpsre2lcxeq.jpg",
+  "text": "Blue character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank (<blank>).",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14606444_10210577504384433_1205174555884372192_n.jpg?oh=74167fc02ef472e1b1bb3b59b1e8e3c3&oe=58A65F50",
   "dice_sides": [
-    {
-      "type": "focus",
-      "value": 1,
-      "resource_cost": 0
-    },
-    {
-      "type": "focus",
-      "value": 1,
-      "resource_cost": 0
-    },
     {
       "type": "disrupt",
       "value": 1,
@@ -39,7 +29,17 @@
       "resource_cost": 0
     },
     {
-      "type": "plus_shield",
+      "type": "shield",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
       "value": 1,
       "resource_cost": 0
     },

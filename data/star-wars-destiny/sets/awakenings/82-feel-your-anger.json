@@ -1,0 +1,17 @@
+{
+  "code": "001082",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "event",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "Feel Your Anger",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 82,
+  "rarity": "common",
+  "has_dice": false,
+  "flavour": "\"Let the hate flow through you.\" - Emperor Palpatine",
+  "text": "Count the number of blanks (<blank>) showing on an opponent's dice. Remove that number of their dice.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14590409_10154046188734226_7076756207333980753_n.jpg?oh=21f2890a0129e4f67d5cd6f9e6d5dd85&oe=58A5B9D6"
+}

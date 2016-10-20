@@ -1,22 +1,22 @@
 {
-  "code": "001040",
-  "color": "blue",
-  "alignment": "hero",
+  "code": "001061",
+  "color": "gray",
+  "alignment": "neutral",
   "type": "upgrade",
   "subtype": [
     "equipment"
   ],
   "resource_cost": 2,
   "deck_limit": 2,
-  "name": "Jedi Robes",
+  "name": "Comlink",
   "game": "star-wars-destiny",
   "set": "awakenings",
-  "set_number": 40,
-  "artist": "Magali Villeneuve",
-  "rarity": "rare",
+  "set_number": 61,
+  "artist": "FFG",
+  "rarity": "uncommon",
   "has_dice": true,
-  "text": "After you play this upgrade, give attached character 1 shield, or 2 sheilds instead if it is the first round of the game.",
-  "image_url": "http://i58.photobucket.com/albums/g256/lizardinboots/Star%20Wars%20Destiny%20Starter%20Cards/040%20-%20Jedi%20Robes_zpsre2lcxeq.jpg",
+  "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/fd/70/fd70f7b1-363c-4ae2-90a9-623202728922/swd03_comlink.png",
   "dice_sides": [
     {
       "type": "focus",
@@ -29,17 +29,17 @@
       "resource_cost": 0
     },
     {
-      "type": "disrupt",
-      "value": 1,
-      "resource_cost": 0
-    },
-    {
       "type": "shield",
       "value": 1,
       "resource_cost": 0
     },
     {
-      "type": "plus_shield",
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_resource",
       "value": 1,
       "resource_cost": 0
     },

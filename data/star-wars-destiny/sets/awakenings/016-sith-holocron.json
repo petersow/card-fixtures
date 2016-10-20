@@ -1,0 +1,52 @@
+{
+  "code": "001016",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "upgrade",
+  "subtype": [
+    "equipment"
+  ],
+  "resource_cost": 0,
+  "deck_limit": 2,
+  "name": "Sith Holocron",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 16,
+  "artist": "FFG",
+  "rarity": "uncommon",
+  "has_dice": true,
+  "text": "<special> - Switch this upgrade with a Blue <b>ability</b> upgrade in your hand, ignoring it's play restrictions. Then you may spend 1 resource to rolls its die into your pool, if able",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/b6/9e/b69e59ac-78ff-4bc0-971d-ed61ea36363d/swd03_sith-holocron.png",
+  "dice_sides": [
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "plus_resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

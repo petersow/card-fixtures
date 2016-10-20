@@ -1,4 +1,53 @@
 {
+  "code": "001001",
+  "color": "red",
+  "alignment": "villain",
+  "type": "character",
+  "deck_limit": 1,
+  "unique": true,
+  "name": "Captain Phasma",
+  "character_sub_title": "Elite Trooper",
+  "health": 11,
   "game": "star-wars-destiny",
-  "set": "awakenings"
+  "set": "awakenings",
+  "set_number": 1,
+  "artist": "Darren Tan",
+  "rarity": "legendary",
+  "text": "Your non-unique characters have the Guardian keyword.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14681593_10154020278111958_8809289155619543290_n.jpg?oh=dfd345accf256e037a4e30d01e1f7145&oe=58A415B6",
+  "point_value": 12,
+  "elite_point_value": 15,
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "ranged",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "discard",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
 }

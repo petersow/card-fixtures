@@ -1,0 +1,51 @@
+{
+  "code": "001042",
+  "color": "blue",
+  "alignment": "hero",
+  "type": "upgrade",
+  "subtype": [
+    "ability"
+  ],
+  "deck_limit": 2,
+  "name": "One with the Force",
+  "resource_cost": 4,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 42,
+  "rarity": "legendary",
+  "has_dice": true,
+  "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready).",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14650129_10154670190212940_4117669103635799747_n.jpg?oh=3f270cd2aa2e594588aef0f6b90e4512&oe=5893A015",
+  "dice_sides": [
+    {
+      "type": "ranged",
+      "value": 3,
+      "resource_cost": 0
+    },
+    {
+      "type": "focus",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "focus",
+      "value": 3,
+      "resource_cost": 0
+    },
+    {
+      "type": "disrupt",
+      "value": 3,
+      "resource_cost": 0
+    },
+    {
+      "type": "shield",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 2,
+      "resource_cost": 0
+    }
+  ]
+}

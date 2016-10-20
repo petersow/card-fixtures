@@ -1,0 +1,20 @@
+{
+  "code": "001126",
+  "color": "gray",
+  "alignment": "hero",
+  "type": "event",
+  "resource_cost": 2,
+  "deck_limit": 2,
+  "name": "Daring Escape",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 126,
+  "artist": "Kate Laird",
+  "rarity": "uncommon",
+  "keywords": [
+    "ambush"
+  ],
+  "text": "Ambush. (You may take one additional action after you play this card.)\nReroll any number of an opponent's dice. Then remove all of their dice showing blanks(<blank>).",
+  "has_dice": false,
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/9a/19/9a1905f4-7442-434a-b047-2517b3dcd462/swd02_daring-escape.png"
+}

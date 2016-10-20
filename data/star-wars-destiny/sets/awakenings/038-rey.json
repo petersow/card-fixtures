@@ -3,8 +3,6 @@
   "color": "blue",
   "alignment": "hero",
   "type": "character",
-  "subtype": [
-  ],
   "deck_limit": 1,
   "name": "Rey",
   "unique": true,
@@ -16,8 +14,9 @@
   "artist": "Darren Tan",
   "flavour": "I think I can handle myself.",
   "rarity": "starter",
+  "has_dice": true,
   "text": "After you play an upgrade on this character, you may take one additional action.",
-  "image_url": "TODO",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/17/80/17801d2c-b44b-4422-bb17-ac06f45e817f/swd02_rey.png",
   "point_value": 9,
   "elite_point_value": 12,
   "dice_sides": [

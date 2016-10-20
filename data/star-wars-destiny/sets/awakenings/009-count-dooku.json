@@ -1,4 +1,53 @@
 {
+  "code": "001009",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "character",
+  "deck_limit": 1,
+  "unique": true,
+  "name": "Count Dooku",
+  "character_sub_title": "Devious Strategist",
+  "health": 10,
   "game": "star-wars-destiny",
-  "set": "awakenings"
+  "set": "awakenings",
+  "set_number": 9,
+  "artist": "Kate Laid",
+  "rarity": "rare",
+  "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14725580_10210289928232185_2984461710546439531_n.jpg?oh=4648ca059271159e1401176843f95ee1&oe=58A62157",
+  "point_value": 11,
+  "elite_point_value": 15,
+  "has_dice": true,
+  "dice_sides": [
+    {
+      "type": "melee",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "melee",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "focus",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "discard",
+      "value": 2,
+      "resource_cost" : 1
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost" : 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost" : 0
+    }
+  ]
 }

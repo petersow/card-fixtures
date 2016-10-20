@@ -1,0 +1,16 @@
+{
+  "code": "001145",
+  "color": "blue",
+  "alignment": "neutral",
+  "type": "event",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "Deflect",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 145,
+  "rarity": "common",
+  "has_dice": false,
+  "text": "Spot a blue character to remove a die showing ranged damage (<ranged>) and deal half of that damage, rounded up, to a character.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14731202_1294835873881665_6607561245763700284_n.jpg?oh=3313b36e9768cac97cc6e22a3b145212&oe=5864B8F4"
+}

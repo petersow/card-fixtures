@@ -1,0 +1,18 @@
+{
+  "code": "001127",
+  "color": "yellow",
+  "alignment": "hero",
+  "type": "event",
+  "resource_cost": 0,
+  "deck_limit": 2,
+  "name": "Don't Get Cocky",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 127,
+  "artist": "David Auden Nash",
+  "flavour": "\"I got one! I got one!\" - Luke Skywalker",
+  "rarity": "common",
+  "has_dice": false,
+  "text": "Each player draws 2 cards.",
+  "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/a6/ba/a6ba2140-499c-49d4-8142-8583027e2919/swd03_dont-get-cocky.png"
+}
