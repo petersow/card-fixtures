@@ -1,0 +1,51 @@
+{
+  "code": "001013",
+  "color": "blue",
+  "alignment": "villain",
+  "type": "upgrade",
+  "subtype": [
+    "ability"
+  ],
+  "deck_limit": 2,
+  "name": "Force Choke",
+  "resource_cost": 2,
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 13,
+  "rarity": "legendary",
+  "has_dice": true,
+  "text": "Blue character only.\n<special> - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14718765_10153852664326496_7549067872516054149_n.jpg?oh=8d543cae8978d16c82588aeb584befc0&oe=58A384AB",
+  "dice_sides": [
+    {
+      "type": "disrupt",
+      "value": 2,
+      "resource_cost": 0
+    },
+    {
+      "type": "discard",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "resource",
+      "value": 1,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost": 0
+    },
+    {
+      "type": "special",
+      "value": 0,
+      "resource_cost": 0
+    },
+    {
+      "type": "blank",
+      "value": 0,
+      "resource_cost": 0
+    }
+  ]
+}

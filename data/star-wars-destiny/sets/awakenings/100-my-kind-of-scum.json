@@ -1,0 +1,16 @@
+{
+  "code": "001100",
+  "color": "yellow",
+  "alignment": "villain",
+  "type": "support",
+  "resource_cost": 1,
+  "deck_limit": 2,
+  "name": "My Kind of Scum",
+  "game": "star-wars-destiny",
+  "set": "awakenings",
+  "set_number": 100,
+  "rarity": "starter",
+  "text": "After you resolve a die showing disrupt (<disrupt>), you may exhaust this support to gain resources equal to the number of resources your opponent just lost.",
+  "image_url": "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14732173_10210732017760652_2404762159724723078_n.jpg?oh=2fc7f0f969171320db333947c68fb3ea&oe=588FFC30",
+  "has_dice": false
+}
